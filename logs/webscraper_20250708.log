@@ -1,0 +1,8 @@
+2025-07-08 23:23:24 - WebScraper - INFO - Uygulama başlatıldı
+2025-07-08 23:50:08 - WebScraper - INFO - Uygulama başlatıldı
+2025-07-08 23:51:02 - WebScraper - ERROR - Scraping hatası: WebScraper._find_matches.<locals>.<lambda>() takes 0 positional arguments but 1 was given
+2025-07-08 23:51:02 - WebScraper - ERROR - Scraping hatası: WebScraper._find_matches.<locals>.<lambda>() takes 0 positional arguments but 1 was given
+2025-07-08 23:51:08 - WebScraper - ERROR - Scraping hatası: 
+paragraph text '<para>Web Tarama ve Anahtar Kelime Raporu</para>' caused exception error with style name=CustomTitle Can't map determine family/bold/italic for dejavusans-bold
+2025-07-08 23:51:08 - WebScraper - ERROR - Scraping hatası: 
+paragraph text '<para>Web Tarama ve Anahtar Kelime Raporu</para>' caused exception error with style name=CustomTitle Can't map determine family/bold/italic for dejavusans-bold

@@ -1,0 +1,16 @@
+# GUI Framework
+PyQt5>=5.15.7
+
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+
+# PDF Generation
+reportlab>=4.0.4
+
+# Additional utilities
+urllib3>=1.26.16
+charset-normalizer>=3.2.0
+idna>=3.4
+certifi>=2023.7.22

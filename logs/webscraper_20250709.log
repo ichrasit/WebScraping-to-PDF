@@ -1,0 +1,17 @@
+2025-07-09 00:01:18 - WebScraper - INFO - Uygulama başlatıldı
+2025-07-09 00:01:32 - WebScraper - ERROR - 'Çukurova Holding' analizi sırasında hata: Web sitesinden anlamlı metin içeriği okunamadı.
+2025-07-09 00:01:32 - WebScraper - ERROR - Sayfa erişim hatası: https://baylangida.com/ - HTTPSConnectionPool(host='baylangida.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')))
+2025-07-09 00:01:32 - WebScraper - ERROR - 'Baylan Pastanesi' analizi sırasında hata: Sayfa içeriği alınamadı (bağlantı hatası).
+2025-07-09 00:01:59 - WebScraper - ERROR - 'Karavelioğlu Grup' analizi sırasında hata: Web sitesinden anlamlı metin içeriği okunamadı.
+2025-07-09 00:02:05 - WebScraper - ERROR - Sayfa erişim hatası: https://www.fenerbahce.org/ - 403 Client Error: Forbidden for url: https://www.fenerbahce.org/
+2025-07-09 00:02:05 - WebScraper - ERROR - 'Fenerbahçe A.Ş.' analizi sırasında hata: Sayfa içeriği alınamadı (bağlantı hatası).
+2025-07-09 00:02:05 - WebScraper - ERROR - Sayfa erişim hatası: https://www.diyarburma.com.tr/ - HTTPSConnectionPool(host='www.diyarburma.com.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')))
+2025-07-09 00:02:05 - WebScraper - ERROR - 'Diyar Burma' analizi sırasında hata: Sayfa içeriği alınamadı (bağlantı hatası).
+2025-07-09 00:02:13 - WebScraper - ERROR - Sayfa erişim hatası: http://alevliholding.com/ - HTTPConnectionPool(host='alevliholding.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x10d256050>: Failed to resolve 'alevliholding.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-09 00:02:13 - WebScraper - ERROR - 'Alevli A.Ş.' analizi sırasında hata: Sayfa içeriği alınamadı (bağlantı hatası).
+2025-07-09 00:02:14 - WebScraper - ERROR - Sayfa erişim hatası: https://www.cakmaklargida.com/ - HTTPSConnectionPool(host='www.cakmaklargida.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')))
+2025-07-09 00:02:14 - WebScraper - ERROR - 'Çakmaklar Gıda' analizi sırasında hata: Sayfa içeriği alınamadı (bağlantı hatası).
+2025-07-09 00:02:18 - WebScraper - ERROR - Sayfa erişim hatası: https://www.anadoluefes.com.tr/markalarimiz/bira/bomonti-filtresiz-100-malt-12 - 404 Client Error: Not Found for url: https://www.anadoluefes.com.tr/markalarimiz/bira/bomonti-filtresiz-100-malt-12
+2025-07-09 00:02:18 - WebScraper - ERROR - 'Bomonti Bira' analizi sırasında hata: Sayfa içeriği alınamadı (bağlantı hatası).
+2025-07-09 00:09:45 - WebScraper - INFO - Uygulama başlatıldı
+2025-07-09 00:28:31 - WebScraper - INFO - Uygulama başlatıldı
