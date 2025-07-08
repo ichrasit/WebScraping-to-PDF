@@ -288,6 +288,6 @@ Destek için lütfen [ozrasit@icloud.com](mailto:ozrasit@icloud.com) ile iletiş
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/ichrasit">Your Name</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/ichrasit">ichrasit</a></p>
   <p>⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!</p>
 </div>
