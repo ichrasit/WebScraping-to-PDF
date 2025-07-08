@@ -45,7 +45,7 @@ A powerful desktop application built with **Python** and **PyQt5** that intellig
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/web-scraper-pdf-generator.git
+git clone https://github.com/ichrasit/web-scraper-pdf-generator.git
 cd web-scraper-pdf-generator
 ```
 
@@ -141,11 +141,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🐛 Issues
 
-If you encounter any issues, please [create an issue](https://github.com/your-username/web-scraper-pdf-generator/issues) with detailed information.
+If you encounter any issues, please [create an issue](https://github.com/ichrasit/web-scraper-pdf-generator/issues) with detailed information.
 
 ### 📞 Support
 
-For support, please contact [your-email@example.com](mailto:your-email@example.com) or create an issue.
+For support, please contact [your-email@example.com](mailto:ozrasit@icloud.com) or create an issue.
 
 ---
 
@@ -177,7 +177,7 @@ For support, please contact [your-email@example.com](mailto:your-email@example.c
 #### 1. Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullanici-adiniz/web-scraper-pdf-generator.git
+git clone https://github.com/ichrasit/web-scraper-pdf-generator.git
 cd web-scraper-pdf-generator
 ```
 
@@ -273,11 +273,11 @@ Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için [LICENSE](LICENSE)
 
 ### 🐛 Sorunlar
 
-Herhangi bir sorunla karşılaşırsanız, lütfen detaylı bilgiyle [bir issue oluşturun](https://github.com/kullanici-adiniz/web-scraper-pdf-generator/issues).
+Herhangi bir sorunla karşılaşırsanız, lütfen detaylı bilgiyle [bir issue oluşturun](https://github.com/ichrasit/web-scraper-pdf-generator/issues).
 
 ### 📞 Destek
 
-Destek için lütfen [email-adresiniz@example.com](mailto:email-adresiniz@example.com) ile iletişime geçin veya bir issue oluşturun.
+Destek için lütfen [email-adresiniz@example.com](mailto:ozrasit@icloud.com) ile iletişime geçin veya bir issue oluşturun.
 
 ---
 
