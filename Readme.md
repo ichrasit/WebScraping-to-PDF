@@ -283,7 +283,7 @@ Herhangi bir sorunla karşılaşırsanız, lütfen detaylı bilgiyle [bir issue 
 
 ### 📞 Destek
 
-Destek için lütfen [email-adresiniz@example.com](mailto:ozrasit@icloud.com) ile iletişime geçin veya bir issue oluşturun.
+Destek için lütfen [ozrasit@icloud.com](mailto:ozrasit@icloud.com) ile iletişime geçin veya bir issue oluşturun.
 
 ---
 
